@@ -1,0 +1,18 @@
+div.title {
+    font-size: 25px;
+    font-family: "標楷體";
+}
+
+div.word {
+    text-indent: 5%;
+    font-size: 15px
+}
+
+img {
+    float: right;
+    padding-right: 3%;
+    max-width: 100%;
+    min-width: 100px;
+    display: block;
+    margin: auto;
+}

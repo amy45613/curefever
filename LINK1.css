@@ -1,0 +1,14 @@
+div.title {
+    font-size: 25px;
+    font-family: "標楷體";
+}
+
+div.word {
+    text-indent: 5%;
+    font-size: 15px
+}
+
+img {
+    width: 30%;
+    float: right
+}

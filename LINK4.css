@@ -1,0 +1,22 @@
+div.title {
+    font-size: 25px;
+    font-family: "標楷體";
+}
+
+div.word {
+    text-indent: 5%;
+    font-size: 15px
+}
+
+img {
+    width: 30%;
+    float: right
+}
+
+div.member {}
+
+div.member>div.row {
+    border: black 1px solid;
+    width: 100px;
+    margin: auto
+}
